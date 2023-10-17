@@ -6,3 +6,7 @@
 目前正在开发当中，未来将全部开源...
 
 ![image](https://github.com/soryecker/LaoTool/assets/46450756/f799c9a4-2f75-4127-aaf1-555cb6e1e6ba)
+
+发现个类似的工具，而且ui更好看点，推荐使用这个：
+
+https://github.com/G3et/Search_Viewer
